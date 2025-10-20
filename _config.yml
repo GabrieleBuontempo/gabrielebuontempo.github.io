@@ -27,8 +27,8 @@ author:
   name             : "Gabriele Buontempo"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Economics"
-  location         : "LMU Munich \\ "
-  employer         : #
+  employer         : "LMU Munich"
+  location         : "Ludwigstr. 28 (RG), Room 015"
   uri              : #""
   email            : "mailto:gabriele.buontempo@econ.lmu.de" 
 
@@ -78,7 +78,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  x                : "GabrieleBuontem"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
