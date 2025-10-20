@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Gabriele Buontempo"
@@ -27,8 +27,8 @@ author:
   name             : "Gabriele Buontempo"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Economics"
-  location         : #"Munich, Germany"
-  employer         : "LMU Munich"
+  location         : "LMU Munich"
+  employer         : #
   uri              : #""
   email            : "mailto:gabriele.buontempo@econ.lmu.de" 
 
