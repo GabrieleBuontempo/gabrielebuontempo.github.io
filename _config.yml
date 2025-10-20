@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Io_premio.png"
+  avatar           : "Io_premio.jpeg"
   name             : "Gabriele Buontempo"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Economics"
   location         : #"Munich, Germany"
-  employer         : "[LMU Munich](https://www.econ.lmu.de/en/)"
+  employer         : "LMU Munich"
   uri              : #""
   email            : "mailto:gabriele.buontempo@econ.lmu.de" 
 
