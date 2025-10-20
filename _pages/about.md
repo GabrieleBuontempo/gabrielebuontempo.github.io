@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi!   Welcome to my webpage"
+title: #"Hi!   Welcome to my webpage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ---
-
+### Hi! Welcome to my webpage
 
 I am Gabriele Buontempo, a PhD student in Economics at [LMU Munich](https://www.econ.lmu.de/en/).
 
