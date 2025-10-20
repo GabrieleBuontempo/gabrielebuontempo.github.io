@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Gabriele Buontempo"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Gabriele Buontempo"
 description              : &description "Gabriele Buontempo's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Io_premio.png"
   name             : "Gabriele Buontempo"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Economics"
   location         : #"Munich, Germany"
-  employer         : "LMU Munich"
-  uri              : "https://www.econ.lmu.de/en/"
+  employer         : "[LMU Munich](https://www.econ.lmu.de/en/)"
+  uri              : #""
   email            : "mailto:gabriele.buontempo@econ.lmu.de" 
 
   # Academic websites

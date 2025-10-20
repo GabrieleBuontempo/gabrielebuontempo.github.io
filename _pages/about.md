@@ -15,8 +15,5 @@ Below you can find a preview of my research as well as ressources for the course
 
 You can find my CV [here](https://google.com).
 
-My email address is gabriele.buontempo[at]econ.lmu.de and my office at LMU is located at:
-Ludwigstr. 28 (RGB)
-Room 015
-80539 Munich
+My email address is gabriele.buontempo[at]econ.lmu.de and my office at LMU is located at: Ludwigstr. 28 (RGB), Room 015.
 
