@@ -1,14 +1,17 @@
 ---
 permalink: /
 author_profile: true
+title: ""
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<br><br>
+
 # Hi! Welcome to my webpage  
 
-<br><br>
+<br>
 
 I am Gabriele Buontempo, a PhD student in Economics at [LMU Munich](https://www.econ.lmu.de/en/).
 
