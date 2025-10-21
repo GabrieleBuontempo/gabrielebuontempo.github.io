@@ -36,10 +36,10 @@ Contact: <a href="mailto:gabriele.buontempo@econ.lmu.de">gabriele.buontempo[at]e
 _Work in progress, draft coming soon_, <a href="{{ site.baseurl }}/files/Poster_HtM.pdf" target="_blank" rel="noopener noreferrer">poster</a>.<br>
 
 <br>
-
+{% comment %}
 **Firms' Reaction to Macroeconomic News**<br>
 _Work in progress_, with <a href="https://www.goedlhanisch.com/" target="_blank" rel="noopener noreferrer">Isabel Gödl-Hanisch</a> and <a href="https://sites.google.com/view/sebastianlink" target="_blank" rel="noopener noreferrer">Sebastian Link</a>.
-
+{% endcomment %}
 
 <br><br><br>
 
