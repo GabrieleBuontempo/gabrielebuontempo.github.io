@@ -51,31 +51,31 @@ For inquiries regarding **Bachelor and Master theses**: feel free to contact me 
 
 <br>
 
-**Macroeconomics 2** (Bachelor)<br>
- LMU Munich, Winter 2025/2026, TA for Prof. <a href="https://sites.google.com/view/uwesunde/home" target="_blank" rel="noopener noreferrer"> Uwe Sunde</a>. <br>
-Link to the <a href="https://moodle.lmu.de/course/view.php?id=42522" target="_blank" rel="noopener noreferrer">Moodle page</a> (gated).
+**Macroeconomics 2** - Bachelor<br>
+ LMU Munich, since summer 2022, TA for Prof. <a href="https://sites.google.com/view/uwesunde/home" target="_blank" rel="noopener noreferrer"> Uwe Sunde</a> and  Prof. <a href="https://sites.google.com/view/mirkowiederholt/startseite" target="_blank" rel="noopener noreferrer"> Mirko Wiederholt</a>. <br>
+Link to the <a href="https://moodle.lmu.de/course/view.php?id=42522" target="_blank" rel="noopener noreferrer">Moodle page for the winter semester 2025/2026</a> (gated).
 
 <br>
 
-**Macroeconomics of Inequality** (Bachelor, SPS Seminar)<br>
-LMU Munich, Winter 2024/2025, with Prof.  <a href="https://chrisbusch.eu/" target="_blank" rel="noopener noreferrer">Christopher Busch</a>. <br>
+**Macroeconomics of Inequality** - Bachelor, SPS Seminar<br>
+LMU Munich, winter 2024/2025, with Prof.  <a href="https://chrisbusch.eu/" target="_blank" rel="noopener noreferrer">Christopher Busch</a>. <br>
 Link to the <a href="{{ site.baseurl }}/files/SPS_inequality_reading.pdf" target="_blank" rel="noopener noreferrer">reading list</a>.
 
 <br>
 
-**Monetary Policy in the 21st Century** (Bachelor, SPS Seminar)<br>
- LMU Munich, Winter 2024/2025, with <a href="https://www.goedlhanisch.com/" target="_blank" rel="noopener noreferrer">Isabel Gödl-Hanisch</a>. <br>
+**Monetary Policy in the 21st Century** - Bachelor, SPS Seminar<br>
+ LMU Munich, winter 2023/2024 and winter 2024/2025, with <a href="https://www.goedlhanisch.com/" target="_blank" rel="noopener noreferrer">Isabel Gödl-Hanisch</a>. <br>
 Link to the <a href="{{ site.baseurl }}/files/SPS_monpol_reading.pdf" target="_blank" rel="noopener noreferrer">reading list</a>.
 
 <br>
 
-**Graduate Econometrics** (Master of Science)<br>
- LMU Munich, Winter 2021/2022, TA for <a href="https://www.mathiasiwanowsky.com/" target="_blank" rel="noopener noreferrer">Mathias Bühler</a>. <br>
+**Graduate Econometrics** - Master of Science<br>
+ LMU Munich, winter 2021/2022, TA for <a href="https://www.mathiasiwanowsky.com/" target="_blank" rel="noopener noreferrer">Mathias Bühler</a>. <br>
 Link to the <a href="https://moodle.lmu.de/course/view.php?id=18365" target="_blank" rel="noopener noreferrer">Moodle page</a> (gated).
 
 <br>
 
 **math+econ+code**<br>
- NYU and Sciences Po (virtual), Summer 2022, TA for Prof. <a href="https://alfredgalichon.com/" target="_blank" rel="noopener noreferrer">Alfred Galichon</a>. <br>
+ NYU and Sciences Po (virtual), summer 2022, TA for Prof. <a href="https://alfredgalichon.com/" target="_blank" rel="noopener noreferrer">Alfred Galichon</a>. <br>
 Link to the <a href="https://www.math-econ-code.org/" target="_blank" rel="noopener noreferrer">course</a>.
 
