@@ -47,6 +47,10 @@ _Work in progress_, with <a href="https://www.goedlhanisch.com/" target="_blank"
 
 <br>
 
+For inquiries regarding **Bachelor and Master theses**: feel free to contact me via <a href="mailto:gabriele.buontempo@econ.lmu.de">email</a>.
+
+<br>
+
 **Macroeconomics 2** (Bachelor)<br>
  LMU Munich, Winter 2025/2026, TA for Prof. <a href="https://sites.google.com/view/uwesunde/home" target="_blank" rel="noopener noreferrer"> Uwe Sunde</a>. <br>
 Link to the <a href="https://moodle.lmu.de/course/view.php?id=42522" target="_blank" rel="noopener noreferrer">Moodle page</a> (gated).
@@ -71,5 +75,7 @@ Link to the <a href="https://moodle.lmu.de/course/view.php?id=18365" target="_bl
 
 <br>
 
-For inquiries regarding **Bachelor and Master theses**: feel free to contact me via <a href="mailto:gabriele.buontempo@econ.lmu.de">email</a>.
+**math+econ+code**<br>
+ NYU and Sciences Po (virtual), Summer 2022, TA for Prof. <a href="https://alfredgalichon.com/" target="_blank" rel="noopener noreferrer">Alfred Galichon</a>. <br>
+Link to the <a href="https://www.math-econ-code.org/" target="_blank" rel="noopener noreferrer">course</a>.
 
