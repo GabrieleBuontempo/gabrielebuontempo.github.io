@@ -26,5 +26,11 @@ You can find my CV <a href="{{ site.baseurl }}/files/Gabriele_Buontempo_CV.pdf" 
 
 Contact: <a href="mailto:gabriele.buontempo@econ.lmu.de">gabriele.buontempo[at]econ.lmu.de</a>
 
+<br><br><br>
 
+## Research Projects
+
+<br><br><br>
+
+## Teaching
 
