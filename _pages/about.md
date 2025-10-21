@@ -45,3 +45,28 @@ _Work in progress_, with <a href="https://www.goedlhanisch.com/" target="_blank"
 
 ## Teaching
 
+<br>
+
+**Macroeconomics 2** (Bachelor), LMU Munich, Winter 2025/2026, TA for <a href="https://sites.google.com/view/uwesunde/home" target="_blank" rel="noopener noreferrer">Prof. Uwe Sunde</a>. <br>
+Link to the <a href="https://moodle.lmu.de/course/view.php?id=42522" target="_blank" rel="noopener noreferrer">Moodle page</a> (gated).
+
+<br>
+
+**Macroeconomics of Inequality** (Bachelor, SPS Seminar), LMU Munich, Winter 2024/2025, with <a href="https://chrisbusch.eu/" target="_blank" rel="noopener noreferrer">Prof. Christopher Busch</a>. <br>
+Link to the <a href="{{ site.baseurl }}/files/SPS_inequality_reading.pdf" target="_blank" rel="noopener noreferrer">reading list</a>.
+
+<br>
+
+**Monetary Policy in the 21st Century** (Bachelor, SPS Seminar), LMU Munich, Winter 2024/2025, with <a href="https://www.goedlhanisch.com/" target="_blank" rel="noopener noreferrer">Isabel Gödl-Hanisch</a>. <br>
+Link to the <a href="{{ site.baseurl }}/files/SPS_monpol_reading.pdf" target="_blank" rel="noopener noreferrer">reading list</a>.
+
+<br>
+
+**Graduate Econometrics** (Master of Science), LMU Munich, Winter 2021/2022, TA for <a href="https://www.mathiasiwanowsky.com/" target="_blank" rel="noopener noreferrer">Mathias Bühler</a>. <br>
+Link to the <a href="https://moodle.lmu.de/course/view.php?id=42522" target="_blank" rel="noopener noreferrer">Moodle page</a> (gated).
+
+<br>
+
+Feel free to contact me via <a href="mailto:gabriele.buontempo@econ.lmu.de">email</a> for inquiries about Bachelor and Master theses.
+
+<br>
