@@ -45,7 +45,10 @@
 }
 
 .masthead__menu {
-
+  display: flex;
+  justify-content: space-between; /* Pushes content to the edges */
+  align-items: center;
+  width: 100%; /* Ensure it spans the full width */
   ul {
     margin: 0;
     padding: 0;
@@ -64,4 +67,22 @@
     padding-right: 2em;
     font-weight: 700;
   }
+}
+
+.masthead__right-items {
+  list-style: none; /* Remove bullet points */
+  padding: 0;
+  margin: 0;
+  display: flex; /* Allow its contents to be aligned */
+  align-items: center;
+}
+
+/* Ensure the greedy-nav doesn't take up all the space */
+.greedy-nav {
+  flex-grow: 1; 
+}
+
+/* Optional: Adjust spacing if needed */
+.masthead__right-items .masthead__menu-item {
+  margin-left: 1em; 
 }
