@@ -3,6 +3,7 @@ permalink: /
 author_profile: true
 title: ""
 seo_title: "Gabriele Buontempo"
+description: "PhD student in Economics at LMU Munich. Research interests in macroeconomics with a focus on expectations, inflation dynamics, and monetary policy."
 header: false
 redirect_from: 
   - /about/
@@ -21,6 +22,9 @@ My research interests are in **macroeconomic theory and empirics**. In particula
 
 Below you can find a preview of my research and resources for the courses I teach.
 
-You can find my CV [here](.).
+You can find my CV <a href="{{ site.baseurl }}/files/Gabriele_Buontempo_CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
 Contact: <a href="mailto:gabriele.buontempo@econ.lmu.de">gabriele.buontempo[at]econ.lmu.de</a>
+
+
+
