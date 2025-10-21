@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Homepage"
+title                    : "Gabriele Buontempo"
+masthead_title           : "Homepage"
 title_separator          : "-"
 name                     : &name "Gabriele Buontempo"
 description              : &description "Gabriele Buontempo's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
