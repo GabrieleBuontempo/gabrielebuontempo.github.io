@@ -1,9 +1,9 @@
 ---
 permalink: /
 author_profile: true
-title: "Gabriele Buontempo"
+title: ""
+seo_title: "Gabriele Buontempo"
 header: false
-show_title : false
 redirect_from: 
   - /about/
   - /about.html
