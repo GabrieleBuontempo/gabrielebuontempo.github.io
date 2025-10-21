@@ -53,7 +53,7 @@ For inquiries regarding **Bachelor and Master theses**: feel free to contact me 
 
 **Macroeconomics 2** - Bachelor<br>
  LMU Munich, since summer 2022, TA for Prof. <a href="https://sites.google.com/view/uwesunde/home" target="_blank" rel="noopener noreferrer"> Uwe Sunde</a> and  Prof. <a href="https://sites.google.com/view/mirkowiederholt/startseite" target="_blank" rel="noopener noreferrer"> Mirko Wiederholt</a>. <br>
-Link to the <a href="https://moodle.lmu.de/course/view.php?id=42522" target="_blank" rel="noopener noreferrer">Moodle page for the winter semester 2025/2026</a> (gated).
+Link to <a href="https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=1090435&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&noDBAction=y&init=y" target="_blank" rel="noopener noreferrer">LSF/a> and the <a href="https://moodle.lmu.de/course/view.php?id=42522" target="_blank" rel="noopener noreferrer">Moodle page</a> for the winter semester 2025/2026 (gated).
 
 <br>
 
@@ -71,7 +71,7 @@ Link to the <a href="{{ site.baseurl }}/files/SPS_monpol_reading.pdf" target="_b
 
 **Graduate Econometrics** - Master of Science<br>
  LMU Munich, winter 2021/2022, TA for <a href="https://www.mathiasiwanowsky.com/" target="_blank" rel="noopener noreferrer">Mathias Bühler</a>. <br>
-Link to the <a href="https://moodle.lmu.de/course/view.php?id=18365" target="_blank" rel="noopener noreferrer">Moodle page</a> (gated).
+Link to <a href="https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=896961&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&noDBAction=y&init=y" target="_blank" rel="noopener noreferrer">LSF/a> and the <a href="https://moodle.lmu.de/course/view.php?id=18365" target="_blank" rel="noopener noreferrer">Moodle page</a> (gated).
 
 <br>
 
