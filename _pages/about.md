@@ -15,7 +15,7 @@ redirect_from:
 
 <br>
 
-I am Gabriele Buontempo, a PhD student in Economics at [LMU Munich](https://www.econ.lmu.de/en/).
+I am Gabriele Buontempo, a PhD student in Economics at <a href="https://www.econ.lmu.de/en/" target="_blank" rel="noopener noreferrer">LMU Munich</a>.
 
 My research interests are in macroeconomic theory and empirics. In particular, I study how the distribution of beliefs and expectations affects business cycles, inflation dynamics, and the transmission of monetary and fiscal policy. 
 
