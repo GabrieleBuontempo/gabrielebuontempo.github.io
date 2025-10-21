@@ -67,10 +67,9 @@ Link to the <a href="{{ site.baseurl }}/files/SPS_monpol_reading.pdf" target="_b
 
 **Graduate Econometrics** (Master of Science)<br>
  LMU Munich, Winter 2021/2022, TA for <a href="https://www.mathiasiwanowsky.com/" target="_blank" rel="noopener noreferrer">Mathias Bühler</a>. <br>
-Link to the <a href="https://moodle.lmu.de/course/view.php?id=42522" target="_blank" rel="noopener noreferrer">Moodle page</a> (gated).
+Link to the <a href="https://moodle.lmu.de/course/view.php?id=18365" target="_blank" rel="noopener noreferrer">Moodle page</a> (gated).
 
 <br>
 
-Feel free to contact me via <a href="mailto:gabriele.buontempo@econ.lmu.de">email</a> for inquiries about **Bachelor** and **Master** theses.
+For inquiries regarding **Bachelor and Master theses**: feel free to contact me via <a href="mailto:gabriele.buontempo@econ.lmu.de">email</a>.
 
-<br>
