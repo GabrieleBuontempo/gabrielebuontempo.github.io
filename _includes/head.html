@@ -19,3 +19,20 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var hostname = window.location.hostname;
+    var links = document.querySelectorAll('a[href]');
+
+    links.forEach(function(link) {
+      // Check if the link's hostname is different from the current hostname
+      // AND the link has an actual hostname (i.e., it's not a relative link like "/files/cv.pdf")
+      // AND it doesn't already have target="_blank" set
+      if (link.hostname !== hostname && link.hostname.length > 0 && link.target !== '_blank') {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer'); // Essential for security and performance
+      }
+    });
+  });
+</script>
