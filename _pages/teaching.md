@@ -1,5 +1,5 @@
 ---
-layout: page        # Or whatever layout your other pages use
+layout: #page        # Or whatever layout your other pages use
 title: ""
 seo_title: "Gabriele Buontempo"     # This will be the title of the page
 permalink: /teaching/ # This sets the URL (e.g., yourwebsite.com/teaching/)
