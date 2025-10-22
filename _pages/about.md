@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-<br><br>
+<br>
 
 # Hi! Welcome to my website  
 
