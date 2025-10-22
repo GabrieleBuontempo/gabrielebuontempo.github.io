@@ -267,7 +267,14 @@
 /* Mobile-only Stacking and Alignment for Name, Bio, and Follow Button */
 @media screen and (max-width: 767px) {
   
-  /* 1. Ensure the Name/Bio Content is side-by-side with the Avatar */
+  /* 1. Ensure Avatar and Content remain side-by-side */
+  .author__avatar {
+    /* Ensure the photo retains its original side-by-side nature */
+    display: table-cell; 
+    vertical-align: top;
+    width: 150px; /* Use your actual mobile avatar width here */
+  }
+
   .sidebar .author__content {
     display: table-cell; 
     padding-left: 15px; 
@@ -278,27 +285,19 @@
   .sidebar .author__name {
     margin-bottom: 15px !important; 
   }
-  
-  /* CRITICAL CHANGE: Force the combined Photo + Content container to full width */
-  /* You need to identify the parent container of both .author__avatar and .author__content. */
-  /* Since we don't know the parent, let's try setting the content to full width and
-     making the avatar flow left to force the next element (the wrapper) below it. */
 
-  .author__avatar {
-    display: block; /* Make the photo a block element */
-    float: left;    /* Float it to the left so text can wrap around it */
-    margin-right: 15px; /* Add some space to the right of the photo */
-  }
-
-  /* 3. Force the Follow Button to a new line and align it with the text */
+  /* 3. Make the Follow Button Wrapper align directly under the Bio */
   .author__urls-wrapper {
-    /* Clear the floats so the button starts below the photo/text area */
-    clear: both;
-    display: block;      /* This forces the button to appear on a new line */
-    width: 100%;
-    margin-top: 15px;    /* Vertical space below the bio */
+    /* Use 'display: block' to force it onto a new line, but eliminate the float/clear */
+    display: block;      
     
-    /* Pushes the button container over to align under the text */
-    padding-left: 165px; 
+    /* CRUCIAL: Remove the standard table-cell vertical alignment */
+    vertical-align: initial; 
+    
+    /* Horizontal push to align with the text area */
+    padding-left: 175px; 
+    
+    /* Adjust vertical positioning */
+    margin-top: -15px !important; /* NEGATIVE MARGIN: Pull it UPWARDS */
   }
 }
