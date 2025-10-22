@@ -283,7 +283,7 @@
 
   /* 2. Force the follow button to a new line and align it with name/bio */
   .author__urls-wrapper {
-    display: table-cell;
+    display: block;
     margin-top: 15px;
     width: auto;
     
