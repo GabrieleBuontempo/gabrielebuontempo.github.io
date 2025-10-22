@@ -283,7 +283,8 @@
   
   /* 2. Fix Spacing between Name and Bio */
   .sidebar .author__name {
-    margin-bottom: 15px !important; 
+    margin-top: 15px !important; 
+    margin-bottom: 20px !important; 
   }
 
   /* 3. Make the Follow Button Wrapper align directly under the Bio */
@@ -298,6 +299,6 @@
     padding-left: 165px; 
     
     /* Adjust vertical positioning */
-    margin-top: -35px !important; /* NEGATIVE MARGIN: Pull it UPWARDS */
+    margin-top: -40px !important; /* NEGATIVE MARGIN: Pull it UPWARDS */
   }
 }
