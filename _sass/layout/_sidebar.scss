@@ -273,16 +273,20 @@
 
 /* Mobile-only stacking for author content and links */
 @media screen and (max-width: 767px) {
-  /* 1. Force the name/bio content to take full width and stack */
+  /* 1. Reset the name/bio content to side-by-side with the avatar */
   .sidebar .author__content {
-    display: block; /* Change from table-cell to block */
-    /*width: 100%;     Ensure it takes full horizontal space */
+    /* Revert to side-by-side. table-cell is needed to align with avatar. */
+    display: table-cell; 
+    padding-left: 15px; /* Keep spacing next to the photo */
+    width: auto;        /* Let the content fit its size */
   }
 
   /* 2. Force the follow button container to a new line and add spacing */
+  /* This is the key: since the name/bio content is table-cell, this is now BELOW it. */
   .author__urls-wrapper {
-    display: block; /* Change from table-cell to block */
-    margin-top: 20px; /* Adjust this value for the desired vertical spacing */
-    /*width: 100%;     Ensure it takes full horizontal space */
+    display: block;      /* This forces the follow button to its own line */
+    margin-top: 20px;
+    width: 100%;
+    /* You may need to add text-align: center; here if you want the button centered */
   }
 }
