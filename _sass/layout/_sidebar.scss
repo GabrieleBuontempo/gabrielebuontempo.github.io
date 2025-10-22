@@ -265,8 +265,8 @@
 
 
 /* Mobile-only spacing for name and bio */
-@media screen and (max-width: 767px) { /* Adjusts spacing for common mobile screen sizes */
+@media screen { /* and (max-width: 767px)  Adjusts spacing for common mobile screen sizes */
   .author__name {
-    margin-bottom: 20px; /* Increase this value (e.g., from 0 to 20px) */
+    margin-bottom: 100px; /* Increase this value (e.g., from 0 to 20px) */
   }
 }
