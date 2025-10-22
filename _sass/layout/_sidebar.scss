@@ -264,30 +264,29 @@
 }
 
 
-/* Mobile-only spacing for name and bio */
-@media screen and (max-width: 767px) {
-  .sidebar .author__name { /* <-- Added .sidebar for higher specificity */
-    margin-bottom: 1px !important; /* <-- Added !important to force the rule to win */
-  }
-}
-
-/* Mobile-only stacking and alignment fix */
+/* Mobile-only Stacking and Alignment for Name, Bio, and Follow Button */
 @media screen and (max-width: 767px) {
   
-  /* 1. Ensure the name/bio content is side-by-side with the avatar */
+  /* 1. Ensure the Name/Bio Content is side-by-side with the Avatar */
   .sidebar .author__content {
+    /* Revert to the side-by-side display type */
     display: table-cell; 
-    padding-left: 15px; /* Keep spacing next to the photo */
+    padding-left: 15px; 
     width: auto;
   }
 
-  /* 2. Force the follow button to a new line and align it with name/bio */
+  /* 2. Fix Spacing between Name and Bio (as previously discussed) */
+  .sidebar .author__name {
+    margin-bottom: 15px !important; 
+  }
+
+  /* 3. Force the Follow Button to a new line AND align it with the text */
   .author__urls-wrapper {
-    display: block;
-    margin-top: 1px;
-    width: auto;
+    display: block;      /* Forces the button to appear on a new line */
+    width: 100%;
+    margin-top: 15px;    /* Vertical space below the bio */
     
-    /* ADDED FIX: Apply the same left padding as the name/bio content */
-    padding-left: 165px; /* Adjust this value! (See note below) */
+    /* Pushes the button container over to align under the text */
+    padding-left: 165px; 
   }
 }
