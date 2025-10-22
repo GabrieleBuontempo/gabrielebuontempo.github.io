@@ -283,9 +283,9 @@
 
   /* 2. Force the follow button to a new line and align it with name/bio */
   .author__urls-wrapper {
-    display: block;
+    display: table-cell;
     margin-top: 15px;
-    width: 100%;
+    width: auto;
     
     /* ADDED FIX: Apply the same left padding as the name/bio content */
     padding-left: 165px; /* Adjust this value! (See note below) */
