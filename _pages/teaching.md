@@ -2,10 +2,12 @@
 layout: default        # Or whatever layout your other pages use
 title: ""
 seo_title: "Gabriele Buontempo"     # This will be the title of the page
-permalink: /teaching/ # This sets the URL (e.g., yourwebsite.com/teaching/)
+permalink: teaching/ # This sets the URL (e.g., yourwebsite.com/teaching/)
 nav_order: 3        # Optional: Use a number to control its order in the menu
 sidebar: true
 ---
+
+<br>
 
 # Teaching Resources
 
