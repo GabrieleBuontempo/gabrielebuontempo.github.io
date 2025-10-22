@@ -83,7 +83,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 130px;
+  width: 150px;
   // set width only, for non-square avatars
   //height: 150px;
 
@@ -267,26 +267,27 @@
 /* Mobile-only spacing for name and bio */
 @media screen and (max-width: 767px) {
   .sidebar .author__name { /* <-- Added .sidebar for higher specificity */
-    margin-bottom: 20px !important; /* <-- Added !important to force the rule to win */
+    margin-bottom: 15px !important; /* <-- Added !important to force the rule to win */
   }
 }
 
-/* Mobile-only stacking for author content and links */
+/* Mobile-only stacking and alignment fix */
 @media screen and (max-width: 767px) {
-  /* 1. Reset the name/bio content to side-by-side with the avatar */
+  
+  /* 1. Ensure the name/bio content is side-by-side with the avatar */
   .sidebar .author__content {
-    /* Revert to side-by-side. table-cell is needed to align with avatar. */
     display: table-cell; 
     padding-left: 15px; /* Keep spacing next to the photo */
-    width: auto;        /* Let the content fit its size */
+    width: auto;
   }
 
-  /* 2. Force the follow button container to a new line and add spacing */
-  /* This is the key: since the name/bio content is table-cell, this is now BELOW it. */
+  /* 2. Force the follow button to a new line and align it with name/bio */
   .author__urls-wrapper {
-    display: block;      /* This forces the follow button to its own line */
-    margin-top: 20px;
+    display: block;
+    margin-top: 15px;
     width: 100%;
-    /* You may need to add text-align: center; here if you want the button centered */
+    
+    /* ADDED FIX: Apply the same left padding as the name/bio content */
+    padding-left: 165px; /* Adjust this value! (See note below) */
   }
 }
