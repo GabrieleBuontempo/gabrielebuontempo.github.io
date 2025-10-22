@@ -269,20 +269,32 @@
   
   /* 1. Ensure the Name/Bio Content is side-by-side with the Avatar */
   .sidebar .author__content {
-    /* Revert to the side-by-side display type */
     display: table-cell; 
     padding-left: 15px; 
     width: auto;
   }
-
-  /* 2. Fix Spacing between Name and Bio (as previously discussed) */
+  
+  /* 2. Fix Spacing between Name and Bio */
   .sidebar .author__name {
     margin-bottom: 15px !important; 
   }
+  
+  /* CRITICAL CHANGE: Force the combined Photo + Content container to full width */
+  /* You need to identify the parent container of both .author__avatar and .author__content. */
+  /* Since we don't know the parent, let's try setting the content to full width and
+     making the avatar flow left to force the next element (the wrapper) below it. */
 
-  /* 3. Force the Follow Button to a new line AND align it with the text */
+  .author__avatar {
+    display: block; /* Make the photo a block element */
+    float: left;    /* Float it to the left so text can wrap around it */
+    margin-right: 15px; /* Add some space to the right of the photo */
+  }
+
+  /* 3. Force the Follow Button to a new line and align it with the text */
   .author__urls-wrapper {
-    display: block;      /* Forces the button to appear on a new line */
+    /* Clear the floats so the button starts below the photo/text area */
+    clear: both;
+    display: block;      /* This forces the button to appear on a new line */
     width: 100%;
     margin-top: 15px;    /* Vertical space below the bio */
     
