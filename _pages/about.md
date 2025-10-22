@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: 
 author_profile: true
 title: ""
 seo_title: "Gabriele Buontempo"
@@ -41,5 +41,5 @@ _Draft coming soon_
 <br>
 
 **Firms' Reaction to Macroeconomic News**<br>
-With <a href="https://www.goedlhanisch.com/" target="_blank" rel="noopener noreferrer">Isabel Gödl-Hanisch</a> and <a href="https://sites.google.com/view/sebastianlink" target="_blank" rel="noopener noreferrer">Sebastian Link</a>.
+With <a href="https://www.goedlhanisch.com/" target="_blank" rel="noopener noreferrer">Isabel Gödl-Hanisch</a> and <a href="https://sites.google.com/view/sebastianlink" target="_blank" rel="noopener noreferrer">Sebastian Link</a>.<br>
 _Work in progress_
