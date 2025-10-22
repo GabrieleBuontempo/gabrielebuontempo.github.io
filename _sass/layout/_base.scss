@@ -115,6 +115,8 @@ blockquote {
 /* links */
 
 a {
+  text-decoration: none; /* <-- ADD THIS LINE to remove the underline globally */
+
   &:focus {
     @extend %tab-focus;
   }
@@ -122,6 +124,7 @@ a {
   &:hover,
   &:active {
     outline: 0;
+    text-decoration: underline; /* <-- OPTIONAL: Adds underline back on hover */
   }
 }
 
