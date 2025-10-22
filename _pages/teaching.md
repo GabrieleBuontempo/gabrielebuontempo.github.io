@@ -1,11 +1,10 @@
 ---
-permalink: 
 author_profile: true
 title: ""
 seo_title: "Gabriele Buontempo"
 description: "PhD student in Economics at LMU Munich. Research interests in macroeconomics with a focus on expectations, inflation dynamics, and monetary policy."
 header: false
-permalink: teaching/ # This sets the URL (e.g., yourwebsite.com/teaching/)
+permalink: /teaching/ # This sets the URL (e.g., yourwebsite.com/teaching/)
 nav_order: 3        # Optional: Use a number to control its order in the menu
 sidebar: true
 ---

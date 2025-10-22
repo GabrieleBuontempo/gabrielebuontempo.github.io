@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: /
 author_profile: true
 title: ""
 seo_title: "Gabriele Buontempo"
