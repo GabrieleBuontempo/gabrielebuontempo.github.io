@@ -267,6 +267,22 @@
 /* Mobile-only spacing for name and bio */
 @media screen and (max-width: 767px) {
   .sidebar .author__name { /* <-- Added .sidebar for higher specificity */
-    margin-bottom: 100px !important; /* <-- Added !important to force the rule to win */
+    margin-bottom: 20px !important; /* <-- Added !important to force the rule to win */
+  }
+}
+
+/* Mobile-only stacking for author content and links */
+@media screen and (max-width: 767px) {
+  /* 1. Force the name/bio content to take full width and stack */
+  .sidebar .author__content {
+    display: block; /* Change from table-cell to block */
+    /*width: 100%;     Ensure it takes full horizontal space */
+  }
+
+  /* 2. Force the follow button container to a new line and add spacing */
+  .author__urls-wrapper {
+    display: block; /* Change from table-cell to block */
+    margin-top: 20px; /* Adjust this value for the desired vertical spacing */
+    /*width: 100%;     Ensure it takes full horizontal space */
   }
 }
