@@ -28,7 +28,7 @@ Course resources are available under the teaching tab. For inquiries regarding B
 
 Contact: <a href="mailto:gabriele.buontempo@econ.lmu.de">gabriele.buontempo[at]econ.lmu.de</a>
 
-<br><br><br>
+<br>
 
 ## Selected Research Projects
 
@@ -41,8 +41,5 @@ _Draft coming soon_
 <br>
 
 **Firms' Reaction to Macroeconomic News**<br>
-With <a href="https://www.goedlhanisch.com/" target="_blank" rel="noopener noreferrer">Isabel Gödl-Hanisch</a> and <a href="https://sites.google.com/view/sebastianlink" target="_blank" rel="noopener noreferrer">Sebastian Link
-_Work in progress_</a>.
-
-<br><br><br>
-
+With <a href="https://www.goedlhanisch.com/" target="_blank" rel="noopener noreferrer">Isabel Gödl-Hanisch</a> and <a href="https://sites.google.com/view/sebastianlink" target="_blank" rel="noopener noreferrer">Sebastian Link</a>.
+_Work in progress_
