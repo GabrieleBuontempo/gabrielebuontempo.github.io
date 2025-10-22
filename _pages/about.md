@@ -20,7 +20,9 @@ I am Gabriele Buontempo, a PhD student in Economics at <a href="https://www.econ
 
 My research interests are in **macroeconomic theory and empirics**. In particular, I study how heterogeneity in beliefs and expectations affects business cycles, inflation dynamics, and the transmission of monetary and fiscal policy. 
 
-You can find my **CV** <a href="{{ site.baseurl }}/files/Gabriele_Buontempo_CV.pdf" target="_blank" rel="noopener noreferrer">here</a>. My current **research** projects are outlined below.
+You can find my **CV** <a href="{{ site.baseurl }}/files/Gabriele_Buontempo_CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+
+My current **research** projects are outlined below.
 
 Course resources are available under the [Teaching](https://gabrielebuontempo.github.io/teaching/) tab. For inquiries regarding Bachelor and Master theses at LMU, feel free to contact me via email.
 
