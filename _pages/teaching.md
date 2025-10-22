@@ -10,13 +10,11 @@ nav_order: 3        # Optional: Use a number to control its order in the menu
 
 <br>
 
-
 **Macroeconomics 2** - Bachelor<br>
  LMU Munich, since summer 2022, TA for Prof. <a href="https://sites.google.com/view/uwesunde/home" target="_blank" rel="noopener noreferrer"> Uwe Sunde</a> and  Prof. <a href="https://sites.google.com/view/mirkowiederholt/startseite" target="_blank" rel="noopener noreferrer"> Mirko Wiederholt</a>. <br>
 Link to <a href="https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=1090435&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&noDBAction=y&init=y" target="_blank" rel="noopener noreferrer">LSF</a> and the <a href="https://moodle.lmu.de/course/view.php?id=42522" target="_blank" rel="noopener noreferrer">Moodle page</a> for the winter semester 2025/2026 (gated).
 
 <br>
-
 
 **Macroeconomics of Inequality** - Bachelor, SPS Seminar<br>
 LMU Munich, winter 2024/2025, with Prof.  <a href="https://chrisbusch.eu/" target="_blank" rel="noopener noreferrer">Christopher Busch</a>. <br>

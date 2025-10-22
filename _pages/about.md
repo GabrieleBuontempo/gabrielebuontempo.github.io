@@ -20,17 +20,17 @@ I am Gabriele Buontempo, a PhD student in Economics at <a href="https://www.econ
 
 My research interests are in **macroeconomic theory and empirics**. In particular, I study how heterogeneity in beliefs and expectations affects business cycles, inflation dynamics, and the transmission of monetary and fiscal policy. 
 
-You can find my CV <a href="{{ site.baseurl }}/files/Gabriele_Buontempo_CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+You can find my **CV** <a href="{{ site.baseurl }}/files/Gabriele_Buontempo_CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
-My current research projects are outlined below.
+My current **research** projects are outlined below.
 
-Course resources are available under the teaching tab. For inquiries regarding **Bachelor and Master theses**, feel free to contact me via email.
+Course resources are available under the teaching tab. For inquiries regarding Bachelor and Master theses, feel free to contact me via email.
 
 Contact: <a href="mailto:gabriele.buontempo@econ.lmu.de">gabriele.buontempo[at]econ.lmu.de</a>
 
 <br><br><br>
 
-## Research Projects
+## Selected Research Projects
 
 <br>
 
@@ -39,11 +39,10 @@ Link to <a href="{{ site.baseurl }}/files/Poster_HtM.pdf" target="_blank" rel="n
 _Draft coming soon_
 
 <br>
-{% comment %}
+
 **Firms' Reaction to Macroeconomic News**<br>
 With <a href="https://www.goedlhanisch.com/" target="_blank" rel="noopener noreferrer">Isabel Gödl-Hanisch</a> and <a href="https://sites.google.com/view/sebastianlink" target="_blank" rel="noopener noreferrer">Sebastian Link
 _Work in progress_</a>.
-{% endcomment %}
 
 <br><br><br>
 
