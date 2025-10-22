@@ -24,7 +24,7 @@ You can find my **CV** <a href="{{ site.baseurl }}/files/Gabriele_Buontempo_CV.p
 
 My current **research** projects are outlined below.
 
-Course resources are available under the [Teaching](https://gabrielebuontempo.github.io/teaching/) tab. For inquiries regarding Bachelor and Master theses, feel free to contact me via email.
+Course resources are available under the [Teaching](https://gabrielebuontempo.github.io/teaching/) tab. For inquiries regarding Bachelor and Master theses at LMU, feel free to contact me via email.
 
 Contact: <a href="mailto:gabriele.buontempo@econ.lmu.de">gabriele.buontempo[at]econ.lmu.de</a>
 
