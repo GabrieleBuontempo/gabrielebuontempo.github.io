@@ -265,7 +265,7 @@
 
 
 /* Mobile-only Stacking and Alignment for Name, Bio, and Follow Button */
-@media screen { /* and (max-width: 767px) */ 
+@media screen and (max-width: 767px) {
   
   /* 1. Ensure Avatar and Content remain side-by-side */
   .author__avatar {
