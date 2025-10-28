@@ -11,6 +11,12 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
+  @include breakpoint($large) {
+    /* Set a fixed minimum width (e.g., 1100px) that comfortably holds your content, */
+    /* the sidebar, and the necessary gaps. Adjust this value after testing. */
+    min-width: 1100px;
+  }
+
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
