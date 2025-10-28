@@ -55,6 +55,12 @@
     border-bottom: 1px solid var(--global-border-color);
   }
 
+  @include breakpoint($large) {
+    /* This creates a fixed, reliable gap on the right of the content. */
+    /* You can adjust '2rem' (32px) as needed for the desired spacing. */
+    padding-right: 2rem; 
+  }
+
   p, li, dl {
     font-size: 1em;
   }
