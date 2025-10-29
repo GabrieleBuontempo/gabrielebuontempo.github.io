@@ -28,6 +28,10 @@
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
 
+    width: 80% !important;
+
+    margin-right: 2.5rem !important;
+
     /* ADD THIS LINE: Explicitly push the entire content block right. */
     /* margin-right: 2.5rem !important; */
 
