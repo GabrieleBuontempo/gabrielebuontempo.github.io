@@ -30,11 +30,11 @@
 
     /* === ADD THESE TWO LINES: === */
     /* 1. FORCE THE WIDTH TO BE NARROWER (10/12 COLUMNS - 2rem) */
-    width: calc(83.333333333% - 2rem); 
+    /* width: calc(83.333333333% - 2rem); */
     
     /* 2. GUARANTEE A SEPARATING MARGIN ON THE RIGHT */
-    margin-right: 2rem !important;
-    
+    /* margin-right: 2rem !important; */
+
   }
 
   .page__inner-wrap {
@@ -78,7 +78,7 @@
   @media screen and (min-width: $sidebar-screen-min-width) {
     /* Use a slightly smaller value for smaller screens if needed, 
        or keep it at 2rem for a comfortable gap. */
-    padding-right: 10rem; 
+    padding-right: 2rem; 
   }
 
   p, li, dl {
