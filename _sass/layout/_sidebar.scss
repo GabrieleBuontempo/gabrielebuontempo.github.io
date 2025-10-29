@@ -303,3 +303,22 @@
     margin-top: -40px !important; /* NEGATIVE MARGIN: Pull it UPWARDS */
   }
 }
+
+/* --- FIX FOR TABLET VIEW ALIGNMENT (768px up to $large) --- */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  
+  .author__urls-wrapper {
+    /* Override table-cell layout, which causes misalignment */
+    display: block !important; 
+    
+    /* Ensure it starts flush left */
+    padding-left: 165px !important; 
+    margin-left: 0 !important;
+    
+    /* Center it if desired, or ensure it's left-aligned */
+    text-align: left !important; 
+    
+    /* Adjust vertical spacing if needed to pull it closer to the name/bio */
+    margin-top: 10px !important; 
+  }
+}
