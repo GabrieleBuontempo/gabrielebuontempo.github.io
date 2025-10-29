@@ -302,6 +302,14 @@
     /* Adjust vertical positioning */
     margin-top: -40px !important; /* NEGATIVE MARGIN: Pull it UPWARDS */
   }
+
+  .author__urls {
+    /* Add this explicit positioning for mobile */
+    top: 60px !important; 
+    left: 0 !important; 
+    right: auto !important; 
+  }
+
 }
 
 @media screen and (min-width: 768px) and (max-width: $large) {
@@ -325,4 +333,12 @@
     /* Adjust vertical spacing if needed to pull it closer to the name/bio */
     margin-top: -40px !important; 
   }
+
+  .author__urls {
+    /* Add this explicit positioning for mobile */
+    top: 60px !important; 
+    left: 0 !important; 
+    right: auto !important; 
+  }
+  
 }
