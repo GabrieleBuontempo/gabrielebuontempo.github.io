@@ -27,6 +27,14 @@
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
+
+    /* === ADD THESE TWO LINES: === */
+    /* 1. FORCE THE WIDTH TO BE NARROWER (10/12 COLUMNS - 2rem) */
+    width: calc(83.333333333% - 2rem); 
+    
+    /* 2. GUARANTEE A SEPARATING MARGIN ON THE RIGHT */
+    margin-right: 2rem !important;
+    
   }
 
   .page__inner-wrap {
