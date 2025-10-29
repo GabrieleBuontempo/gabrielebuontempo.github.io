@@ -305,6 +305,11 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: $large) {
+
+  .sidebar .author__name {
+    margin-top: 10px !important; 
+    margin-bottom: 15px !important; 
+  }
   
   .author__urls-wrapper {
     /* Override table-cell layout, which causes misalignment */
