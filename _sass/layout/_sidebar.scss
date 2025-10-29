@@ -159,7 +159,7 @@
 }
 
 .author__urls-wrapper {
-  position: relative;
+  position: relative !important;
   display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
@@ -331,13 +331,13 @@
     display: block !important; 
     
     /* Ensure it starts flush left */
-    padding-left: 180px !important; 
+    padding-left: 190px !important; 
     margin-left: 0 !important;
     
     /* Center it if desired, or ensure it's left-aligned */
     text-align: left !important; 
     
     /* Adjust vertical spacing if needed to pull it closer to the name/bio */
-    margin-top: -30px !important; 
+    margin-top: -40px !important; 
   }
 }
