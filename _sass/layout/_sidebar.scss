@@ -304,7 +304,7 @@
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (min-width: 768px) and (max-width: $large) {
   
   .author__urls-wrapper {
     /* Override table-cell layout, which causes misalignment */
