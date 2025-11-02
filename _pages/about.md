@@ -37,7 +37,7 @@ Contact: <a href="mailto:gabriele.buontempo@econ.lmu.de">gabriele.buontempo[at]e
 **The Inflation Expectations of the non-Hand-to-Mouth**<br>
 _Draft coming soon_.<br>
 <div style="margin-bottom: -10px;">
-  Link to <a href="{{ site.baseurl }}/files/Poster_HtM.pdf" target="_blank" rel="noopener noreferrer">poster.
+  Link to <a href="{{ site.baseurl }}/files/Poster_HtM.pdf" target="_blank" rel="noopener noreferrer">poster.</a>
 </div>
 <details>
   <summary>Click here to show the abstract </summary>
