@@ -36,11 +36,12 @@ Contact: <a href="mailto:gabriele.buontempo@econ.lmu.de">gabriele.buontempo[at]e
 
 **The Inflation Expectations of the non-Hand-to-Mouth**<br>
 _Draft coming soon_.<br>
- Link to <a href="{{ site.baseurl }}/files/Poster_HtM.pdf" target="_blank" rel="noopener noreferrer">poster.<details>
+ Link to <a href="{{ site.baseurl }}/files/Poster_HtM.pdf" target="_blank" rel="noopener noreferrer">poster.
+ <details>
   <summary>Click here to show the abstract </summary>
 
   Inflation expectations differ systematically between Hand-to-Mouth (HtM) and non-Hand-to-Mouth households. Using microdata from the Survey of Consumer Expectations over 2013–2025, I document that non-HtM households display (i) lower volatility, (ii) smaller forecast errors as well as (iii) absolute forecast errors, and (iv) lower cross-sectional dispersion in inflation expectations relative to HtM households. A noisy-signal model in which households differ in perceived bias and overconfidence in the inflation signal rationalizes these facts. Estimation shows that during the period of low and stable inflation, households do not react to observed inflation when forming expectations. In contrast, during the inflation surge, households update their expectations, yet underreact to inflation news. Underreaction is stronger among non-HtM households (Kalman gain = 0.15) than among HtM households (Kalman gain = 0.19). These findings highlight the interaction between inflation dynamics, household liquidity, and expectations, motivating a heterogeneous-agent model I am developing to evaluate their aggregate implications.
-  
+
 </details>
 
 <br>
