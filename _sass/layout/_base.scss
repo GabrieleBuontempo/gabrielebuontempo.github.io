@@ -7,6 +7,15 @@ html {
   min-height: 100%;
 }
 
+::selection {
+  /* Replace with your desired colors (e.g., light blue background, dark text) */
+  background: #cceeff; /* Light Sky Blue Highlight */
+}
+
+::-moz-selection {
+  background: #cceeff; /* For Firefox compatibility */
+}
+
 body {
   /* Set via _themes.scss */
   color: var(--global-text-color);
