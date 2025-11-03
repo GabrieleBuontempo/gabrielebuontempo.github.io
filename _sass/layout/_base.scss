@@ -10,10 +10,12 @@ html {
 ::selection {
   /* Replace with your desired colors (e.g., light blue background, dark text) */
   background: #cceeff; /* Light Sky Blue Highlight */
+  color: #333333;   /* Dark Gray Text */
 }
 
 ::-moz-selection {
   background: #cceeff; /* For Firefox compatibility */
+  color: #333333;   /* Dark Gray Text */
 }
 
 body {
