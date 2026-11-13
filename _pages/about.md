@@ -28,9 +28,9 @@ Course resources are available under the [Teaching](https://gabrielebuontempo.gi
 
 Contact: <a href="mailto:gabriele.buontempo@econ.lmu.de">gabriele.buontempo[at]econ.lmu.de</a>
 
-<br>
+<hr style="margin: 4em 0 0 0; border: 0; border-top: 1px solid color-mix(in srgb, var(--global-border-color) 50%, var(--global-dark-border-color));">
 
-<h2 style="font-size: 1.15em;">The Inflation Expectations of Savers and Hand-to-Mouth Households</h2>
+<h2 style="font-size: 1.15em; margin-top: 0.9em; padding-bottom: 0; border-bottom: none;">The Inflation Expectations of Savers and Hand-to-Mouth Households</h2>
 
 Link to the <a href="{{ site.baseurl }}/files/JMP_Buontempo_SaversInflationExpectations.pdf" target="_blank" rel="noopener noreferrer">latest version</a>.
 

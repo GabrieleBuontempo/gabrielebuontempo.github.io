@@ -41,3 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom (2026-11-13): on phones, tighten the spacing between menu tabs so that
+   Homepage, Research and Teaching all fit and the overflow menu button is not needed. */
+@media (max-width: 600px) {
+  .masthead__menu-item--lg { padding-right: 0.25em; }
+  .greedy-nav a { margin: 0 0.5rem; }
+}
+@media (max-width: 359px) {
+  .greedy-nav .visible-links a { font-size: 0.9em; }
+}
