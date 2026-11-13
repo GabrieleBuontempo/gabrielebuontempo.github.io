@@ -22,7 +22,7 @@ My research interests are in **macroeconomic theory and empirics**. In particula
 
 You can find my **CV** <a href="{{ site.baseurl }}/files/Gabriele_Buontempo_CV.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
-My most recent **paper**, "<a href="{{ site.baseurl }}/files/JMP_Buontempo_SaversInflationExpectations.pdf" target="_blank" rel="noopener noreferrer">The Inflation Expectations of Savers and Hand-to-Mouth Households</a>," is featured below. All my current research projects are outlined under the <a href="{{ site.baseurl }}/research/">Research</a> tab.
+My most recent **paper**, "<a href="{{ site.baseurl }}/files/JMP_Buontempo_SaversInflationExpectations.pdf" target="_blank" rel="noopener noreferrer">The Inflation Expectations of Savers and Hand-to-Mouth Households</a>," is featured below. My other projects are outlined under the <a href="{{ site.baseurl }}/research/">Research</a> tab.
 
 Course resources are available under the [Teaching](https://gabrielebuontempo.github.io/teaching/) tab. For inquiries regarding Bachelor and Master theses at LMU, feel free to contact me via email.
 
@@ -30,12 +30,9 @@ Contact: <a href="mailto:gabriele.buontempo@econ.lmu.de">gabriele.buontempo[at]e
 
 <br>
 
-## Featured Paper
+<h2 style="font-size: 1.15em;">The Inflation Expectations of Savers and Hand-to-Mouth Households</h2>
 
-<br>
-
-**The Inflation Expectations of Savers and Hand-to-Mouth Households**<br>
-Link to the <a href="{{ site.baseurl }}/files/JMP_Buontempo_SaversInflationExpectations.pdf" target="_blank" rel="noopener noreferrer">latest version</a>. Link to <a href="{{ site.baseurl }}/files/Poster_HtM.pdf" target="_blank" rel="noopener noreferrer">poster</a>.
+Link to the <a href="{{ site.baseurl }}/files/JMP_Buontempo_SaversInflationExpectations.pdf" target="_blank" rel="noopener noreferrer">latest version</a>.
 
 <figure style="margin: 0.9em 0 1.1em 0; width: 100%;">
   <a href="{{ site.baseurl }}/files/JMP_Buontempo_SaversInflationExpectations.pdf" target="_blank" rel="noopener noreferrer"><img src="{{ site.baseurl }}/images/research/jmp_expectations.png" alt="Inflation expectations of Savers and HtM households" style="display: block; width: 100%; margin: 0; background: #fff; padding: 6px; border-radius: 6px;"></a>
